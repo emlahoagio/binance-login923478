@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ondigitalocean.app	TRUE	/	FALSE	1999999999	__cf_bm	v9CLSq_KfGcY2YuCB0huZAzcgYfhq3_Q5La.kdVeeW4-1732981166-1.0.1.1-rq4uf1cAu.TXvkzaVf150eZnlG4YZexj2weROHyzK_RUWUPoFjRCdqd9H1UUtmrydyl5DJKpCmeUCvQoc86iUQ
+binance-app4-mrqkf.ondigitalocean.app	TRUE	/	FALSE	1999999999	SameSite	None
+
